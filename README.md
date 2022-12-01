@@ -1,8 +1,10 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
-Name :	Swathika G
+Name :Swathika G
 
-Roll no: 212221230113
+Roll no :212221230113
+
+Date of experiment : 14/10/2022
 
   
 ## Aim: To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
